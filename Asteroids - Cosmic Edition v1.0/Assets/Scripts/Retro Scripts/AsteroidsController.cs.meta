@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72a9d5876ba271845b3b4ffbe12cfd8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigidbody2d: {instanceID: 0}
+  - asteroidMedium: {instanceID: 0}
+  - asteroidSmall: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
